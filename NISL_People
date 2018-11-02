@@ -286,92 +286,53 @@
                                       </td>
                                     </tr>
                                    <!-------------------------------------------------------------------------------------------------------------------->      
-
-                                      <!---------------------------------------Foroozan Koushan-----------------------------------
-
-                                      <tr>
-                                        <td style="width: 120px; text-align: center;">
-                                          <img style="width: 120px; height: 160px;" alt="Foroozan Koushan" src="Pics/Foroozan%20Koushan%203.1.JPG">
-                                        </td>
-                                        <td style="width: 396px;">
-                                            <b>
-                                              <span>
-                                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Foroozan Koushan, Ph. D. student
-                                              </span>
-                                            </b>
-                                            <b>
-                                              <span style="font-family: Arial,sans-serif;">
-                                                <o:p></o:p>
-                                              </span>
-                                          </b>
-                                    </p><p class="MsoNormal" style="margin: 0in 0in 12pt; font-size: medium; font-family: &quot;Times New Roman&quot;,serif; color: rgb(0, 0, 0); font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); line-height: 22.4px;">
-                                      <b>
-                                        <span style="font-size: 11pt; line-height: 20.5333px; font-family: Arial,sans-serif;">
-                                          <span>
-                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                          </span>
-                                        </span>
-                                      </b>
-                                      <span style="font-size: 10pt; line-height: 18.6667px; font-family: Arial,sans-serif;">
-                                        <span>
-
-                                        </span>
-                                      </span>
-                                      <span style="font-size: 11pt; line-height: 20.5333px;">
-                                        E-mail:
-                                      </span>
-                                      <span style="font-size: 11pt; line-height: 20.5333px; color: rgb(91, 155, 213);">
-                                        <span>
-                                          &nbsp;
-                                        </span>
-                                      </span>
-                                      <a target="_blank" href="mailto:fkoushan@ucsc.edu" style="text-decoration: none; color: rgb(51, 102, 255);">
-                                        fkoushan@ucsc
-                                        <span style="font-size: 11pt; line-height: 20.5333px;">
-                                          .edu
-                                        </span>
-                                      </a>
-                                      </p>
-                                    </td>
-                                </tr>
-
-                                ------------------------------------------------------------------------------------->
-
-                              <!-----------------------Eduardo Hirata Miyasaki------------------------------------
-                                <tr>
-                                  <td style="text-align: center; width: 120px;">
-                                    <img style="height: 166px; width: 122px;" alt="Eduardo Hirata Miyasaki" src="people_files/Eduardo%20HIrata%20Miyasaki.jpg">
-                                  </td>
-                                  <td style="width: 396px;">
-                                    <p class="MsoNormal" style="margin: 0in 0in 12pt; font-size: medium; font-family: &quot;Times New Roman&quot;,serif; color: rgb(0, 0, 0); font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); line-height: 22.4px;">
-                                      <b>
-                                        <span>
-                                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eduardo Hirata Miyasaki, undergraduate student
-                                        </span>
-                                      </b>
-                                    </p>
-                                    <p class="MsoNormal" style="margin: 0in 0in 12pt; font-size: medium; font-family: &quot;Times New Roman&quot;,serif; color: rgb(0, 0, 0); font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); line-height: 22.4px;">
-                                      <span style="font-size: 11pt; line-height: 20.5333px;">
-                                        <span>
-                                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                                        </span>
-                                        E-mail:
-                                        <span>
-                                          &nbsp;
-                                        </span>
-                                      </span>
-                                      <a href="mailto:edhiratam@gmail.com" target="_blank">
-                                        <span class="MsoNormal" style="font-size: 11pt; line-height: 20.5333px; color: rgb(51, 102, 255);">
-                                          <span style="text-decoration: none;">
-                                            edhiratam@gmail.com
-                                          </span>
-                                        </span>
-                                      </a>
-                                    </p>
-                                  </td>
-                                </tr>
-                               ---------------------------------------------------------------------------------------------->
-                                                                                        
+                          
+                            <!-----------------------------------------------Foroozan Koushan----------------------------------------->
+                              <tr>
+                                <td style="text-align: center; width: 120px;">
+                                  <img style="width: 120px; height: 167px;" alt="Foroozan Koushan" src="https://github.com/jdeng13/NISL/blob/master/Foroozan%20Koushan.png?raw=true">
+                                </td>
+                                <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
+                                  <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
+                                    <span style="font-weight: bold;">
+                                      &nbsp;Foroozan Koushan, Ph. D. student
+                                    </span>
+                                    <br>
+                                    <br style="font-family: Times New Roman;">
+                                  </span>
+                                  <span style="font-family: Times New Roman;">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: 
+                                  </span>
+                                  <a style="font-family: Times New Roman; background-color: white; color: rgb(51, 102, 255);" href="mailto:jdeng13@ucsc.edu" target="_blank">
+                                    fkoushan@ucsc.edu 
+                                  </a>
+                                </td>
+                              </tr>
+                             <!-------------------------------------------------------------------------------------------------------------------->
+                                    
+                              <!-----------------------------------------------Eduardo Hirata Miyasaki----------------------------------------->
+                              <tr>
+                                <td style="text-align: center; width: 120px;">
+                                  <img style="width: 120px; height: 167px;" alt="Eduardo Hirata Miyasaki" src="https://github.com/jdeng13/NISL/blob/master/Eduardo%20HIrata%20Miyasaki.jpg?raw=true">
+                                </td>
+                                <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
+                                  <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
+                                    <span style="font-weight: bold;">
+                                      &nbsp;Eduardo Hirata Miyasaki, undergraduate student
+                                    </span>
+                                    <br>
+                                    <br style="font-family: Times New Roman;">
+                                  </span>
+                                  <span style="font-family: Times New Roman;">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: 
+                                  </span>
+                                  <a style="font-family: Times New Roman; background-color: white; color: rgb(51, 102, 255);" href="mailto:jdeng13@ucsc.edu" target="_blank">
+                                    edhiratam@gmail.com
+                                  </a>
+                                </td>
+                              </tr>
+                             <!--------------------------------------------------------------------------------------------------------------------> 
+ 
                                     </tbody>
                                   </table>
                                 </td>
