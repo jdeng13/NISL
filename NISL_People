@@ -64,19 +64,6 @@
                                               </td>
                                             </tr>
 
-                                            <!--Alumni-->
-                                            <tr style="height: 21.7pt;">
-                                              <td style="padding: 0.75pt; width: 139px; text-align: center;">
-                                                <p style="text-align: center; line-height: 140%; width: 122px;" align="center">
-                                                  <a href="file:///C:/Users/dengj/Google%20Drive/UCSC/NISL%20Edit/people.html">
-                                                    <span style="font-size: 10pt; line-height: 140%; font-family: &quot;Arial&quot;,sans-serif;">
-                                                      <img style="width: 120px; height: 35px;" id="_x0000_i2615" src="images/icons/members.gif" alt="students" border="0">
-                                                    </span>
-                                                  </a>
-                                                </p>
-                                              </td>
-                                            </tr>
-
                                             <!--Visitors-->
                                             <tr style="height: 21.7pt;">
                                               <td style="padding: 0.75pt; width: 110.65pt; height: 21.7pt;">
@@ -124,7 +111,7 @@
                                     <!-----------------------------------------------Bai-Sun Kong----------------------------------------->
                                             <tr>
                                               <td style="text-align: center; width: 120px;">
-                                                <img style="width: 120px; height: 167px;" alt="Bai-Sun Kong" src="C:\Users\dengj\Documents\NISL Edit\images\people">
+                                                <img style="width: 130px; height: 160px;" alt="Bai-Sun Kong" src="https://github.com/jdeng13/NISL/blob/master/bskong.jpg?raw=true">
                                               </td>
                                               <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
                                                 <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
@@ -151,7 +138,7 @@
                                     <!-----------------------------------------------DongUk Choi----------------------------------------->
                                             <tr>
                                               <td style="text-align: center; width: 120px;">
-                                                <img style="width: 120px; height: 167px;" alt="DongUk Choi" src="people_files/jianru%20deng.jpg">
+                                                <img style="width: 130px; height: 160px;" alt="DongUk Choi" src="https://github.com/jdeng13/NISL/blob/master/Donguk%20Choi.jpg?raw=true">
                                               </td>
                                               <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
                                                 <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
@@ -178,7 +165,7 @@
                                     <!-----------------------------------------------Jianru Deng----------------------------------------->
                                             <tr>
                                               <td style="text-align: center; width: 120px;">
-                                                <img style="width: 120px; height: 167px;" alt="Jianru Deng" src="people_files/jianru%20deng.jpg">
+                                                <img style="width: 120px; height: 160px;" alt="Jianru Deng" src="https://github.com/jdeng13/NISL/blob/master/jianru%20deng.jpg?raw=true">
                                               </td>
                                               <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
                                                 <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
@@ -202,11 +189,10 @@
                                               </td>
                                             </tr>
                                    <!-------------------------------------------------------------------------------------------------------------------->      
-
                                    <!-----------------------------------------------Michael Morin----------------------------------------->
                                             <tr>
                                               <td style="text-align: center; width: 120px;">
-                                                <img style="width: 120px; height: 167px;" alt="Michael Morin" src="Pics/Michael%20Morin%203.jpg">
+                                                <img style="width: 125px; height: 160px;" alt="Michael Morin" src="https://github.com/jdeng13/NISL/blob/master/Michael%20Morin.jpg?raw=true">
                                               </td>
                                               <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
                                                 <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
@@ -234,7 +220,7 @@
                                    <!--------------------------------------------------Sangho Shin------------------------------->
                                       <tr>
                                         <td style="text-align: center; width: 120px;">
-                                          <img style="width: 123px; height: 153px;" alt="Sangho Shin" src="people_files/image004.jpg">
+                                          <img style="width: 123px; height: 153px;" alt="Sangho Shin" src="https://github.com/jdeng13/NISL/blob/master/Sangho%20Shin.png?raw=true">
                                         </td>
                                         <td style="width: 396px;">
                                           <p>
@@ -276,7 +262,7 @@
                                     <!-----------------------------------------------Kyungmin Kim----------------------------------------->
                                     <tr>
                                       <td style="text-align: center; width: 120px;">
-                                        <img style="width: 120px; height: 167px;" alt="Kyungmin Kim" src="Pics/Kyungmin.jpg">
+                                        <img style="width: 120px; height: 167px;" alt="Kyungmin Kim" src="https://github.com/jdeng13/NISL/blob/master/Kyungmin.jpg?raw=true">
                                       </td>
                                       <td style="text-align: left; width: 396px;">&nbsp; &nbsp; 
                                         <span style="font-family: Times New Roman;">&nbsp; &nbsp; 
